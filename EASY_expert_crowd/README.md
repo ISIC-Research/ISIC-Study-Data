@@ -3,7 +3,7 @@ The data in the CSV files in this folder relates to the
 [EASY Dermoscopy Expert Agreement Study](https://api.isic-archive.com/collections/166/) images.
 
 ## Study design
-The data for this study was collected on Centaur Labs' (DiagnosUs platform)[https://www.diagnosus.com].
+The data for this study was collected on Centaur Labs' [DiagnosUs platform](https://www.diagnosus.com).
 For each of the 248 images, experts were asked to decide whether the
 following (higher-level) feature was present in within the lesion area:
 
